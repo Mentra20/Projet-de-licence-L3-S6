@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.plplbproject.Vue.semestreBuilder.MainActivity">
+    <item
+        android:id="@+id/semestre1"
+        android:title="Semestre 1"
+        />
+    <item
+        android:id="@+id/semestre2"
+        android:title="Semestre 2"
+        />
+</menu>

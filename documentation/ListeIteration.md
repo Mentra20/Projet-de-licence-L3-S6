@@ -43,13 +43,13 @@
 	-Ajout du s3.
 	-Ajout des UEs du s4.
 	-Ajout du s4.
-	-Ajout d'une activité Login. le numéro de l'étudiant caractérisera le client, qu'il devra fournir au login pour récupérer ses UEs.
+	-Ajout d'une activité Login. Le numéro de l'étudiant caractérisera le client, qu'il devra fournir au login pour 	récupérer ses UEs.
 	-Le login est stocké de base dans un fichier.
 	-Le serveur reconnais un étudiant déjà dans le fichier et charge ses sauvegardes.
 	-IHM : page de login a l'ouverture de l'application.
 	- demande du client : intégrer des pré-requis aux Ues. (modifié donc la validation de certain parcours en conséquences)
 	- demande du client : pouvoir changer les données coté serveur (listes des cours, description des cours, « pré-requis », etc.), 
-	en notifier le client et ré-évaluer ses parcours et données en conséquences.
+		en notifier le client et ré-évaluer ses parcours et données en conséquences.
 	
 
 ### Itération 6:
@@ -65,8 +65,8 @@
 
 
 ### Itération 7:
-	- Refonte du code pour optimisation.
-	- ajout de l'option : filtrer / rechercher par discipline quand le client creer/modifie un parcours (coté client)
+	-Refonte du code pour optimisation.
+	-ajout de l'option : filtrer / rechercher par discipline quand le client creer/modifie un parcours (coté client)
 	-Explication de l'indisponibilité d'une UE en rouge. 
 	
 
