@@ -1,6 +1,8 @@
 # Présentation
 
 Lien du repository du projet : https://github.com/L3-Info-Miage-Universite-Cote-D-Azur/pl2020-plplb  
+
+
 Ce répertoire contient une copie de mon projet de licence dont le sujet était le suivant : 
 
 ![Sujet](https://github.com/Mentra20/Projet-de-licence-L3-S6/blob/master/sujet.png)
@@ -8,7 +10,10 @@ Ce répertoire contient une copie de mon projet de licence dont le sujet était 
 ![Evo2](https://github.com/Mentra20/Projet-de-licence-L3-S6/blob/master/Evolution2.png)
 
 Le serveur se trouve dans *javastd/serveur* et le client dans *android/* la partie commun se trouve dans *javastd/commun*  
-Vous pouvez voir la participation et commit du projet dans l'onglet "contribuator". 
+
+Vous pouvez voir la participation et commit du projet dans l'onglet "contributors". 
+
+### Ce projet a eu une soutenance : [les diapositives](https://github.com/L3-Info-Miage-Universite-Cote-D-Azur/pl2020-plplb/blob/master/documentation/Soutenance_projet_de_licence_PLPLB.pdf)
 
 
 
